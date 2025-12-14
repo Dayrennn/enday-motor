@@ -168,8 +168,7 @@ Route::middleware(['auth', 'role:sales'])->get('/sales/penjualan', function () {
 
 //route fungsi dashboard sales
 Route::get('/sales/dashboard', [SalesController::class, 'index'])->name('sales.dashboard');
-//route untuk data chart di dashboard sales
-Route::get('/sales/chart-data', [SalesController::class, 'chartData'])->name('admin.chart.data');
+
 
 //route booking dan status sales
 Route::prefix('sales')->middleware(['auth', 'role:sales'])->group(function () {
@@ -207,4 +206,5 @@ Route::get('/produk/{brand}', [DataMotorController::class, 'showByBrand'])->name
 Route::get('/admin/dashboard', [DashboardController::class, 'index'])->name('admin.dashboard');
 
 //route untuk data chart di dashboard
-Route::get('/admin/chart-data', [DashboardController::class, 'chartData'])->name('admin.chart.data');
+Route::get('admin/chart-data', [DashboardController::class, 'chartData'])->name('admin.chart.data.admin');
+Route::get('sales/chart-data', [SalesController::class, 'chartData'])->name('admin.chart.data.sales');
