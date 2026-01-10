@@ -4,67 +4,42 @@ Enday Motor adalah sebuah aplikasi web berbasis Laravel yang dikembangkan sebaga
 
 Project ini berfokus pada penerapan praktik pengembangan aplikasi web yang baik, penggunaan fitur inti Laravel, serta pemahaman alur kerja aplikasi berbasis MVC.
 
-🎯 Project Purpose
+Project Purpose
+1. Tujuan utama pengembangan project ini adalah:
+2. Meningkatkan pemahaman terhadap framework Laravel
+3. Mengimplementasikan pola arsitektur MVC (Model–View–Controller)
+4. Menerapkan konsep CRUD, validasi data, dan relasi database
+5. Memahami pengelolaan database menggunakan Migration & Seeder
+6. Melatih penggunaan Eloquent ORM
+7. Menjadi project portofolio dan bahan evaluasi kemampuan backend web development
 
-Tujuan utama pengembangan project ini adalah:
+Features
+1. Fitur-fitur yang dikembangkan dalam project ini antara lain:
+2. Manajemen data motor
+3. Manajemen penjualan
+4. Manajemen pengguna
+5. Operasi CRUD (Create, Read, Update, Delete)
+6. Validasi input
+7. Struktur kode yang terorganisir sesuai standar Laravel
 
-Meningkatkan pemahaman terhadap framework Laravel
+Tech Stack
+1. Laravel
+2. PHP
+3. MySQL
+4. Blade Template Engine
+5. HTML, CSS, JavaScript
+6. Bootstrap
 
-Mengimplementasikan pola arsitektur MVC (Model–View–Controller)
+Project Status
+1. Project ini masih dalam tahap pengembangan dan pembelajaran.
+2. Fitur akan terus ditambahkan dan disempurnakan seiring dengan peningkatan pemahaman terhadap Laravel dan best practice pengembangan aplikasi web.
 
-Menerapkan konsep CRUD, validasi data, dan relasi database
+Notes
+1. Project ini dibuat untuk tujuan pembelajaran dan portofolio
+2. Tidak ditujukan untuk penggunaan production
+3. Struktur dan fitur dapat berubah sewaktu-waktu
 
-Memahami pengelolaan database menggunakan Migration & Seeder
-
-Melatih penggunaan Eloquent ORM
-
-Menjadi project portofolio dan bahan evaluasi kemampuan backend web development
-
-🚀 Features
-
-Fitur-fitur yang dikembangkan dalam project ini antara lain:
-
-Manajemen data motor
-
-Manajemen penjualan
-
-Manajemen pengguna
-
-Operasi CRUD (Create, Read, Update, Delete)
-
-Validasi input
-
-Struktur kode yang terorganisir sesuai standar Laravel
-
-🛠 Tech Stack
-
-Laravel
-
-PHP
-
-MySQL
-
-Blade Template Engine
-
-HTML, CSS, JavaScript
-
-Bootstrap / Tailwind CSS (opsional)
-
-📂 Project Status
-
-Project ini masih dalam tahap pengembangan dan pembelajaran.
-
-Fitur akan terus ditambahkan dan disempurnakan seiring dengan peningkatan pemahaman terhadap Laravel dan best practice pengembangan aplikasi web.
-
-📌 Notes
-
-Project ini dibuat untuk tujuan pembelajaran dan portofolio
-
-Tidak ditujukan untuk penggunaan production
-
-Struktur dan fitur dapat berubah sewaktu-waktu
-
-👤 Author
+Author
 
 Rafly Ramandha Kusuma
 Backend / Web Developer (Laravel)
