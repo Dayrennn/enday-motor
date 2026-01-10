@@ -31,7 +31,7 @@ Tech Stack
 6. Bootstrap
 
 Project Status
-1. Project ini masih dalam tahap pengembangan dan pembelajaran.
+1. Project ini sedang tahap pengembangan namun bisa di cek melalui endaymotor.trimitraabadilestari.com.
 2. Fitur akan terus ditambahkan dan disempurnakan seiring dengan peningkatan pemahaman terhadap Laravel dan best practice pengembangan aplikasi web.
 
 Notes
