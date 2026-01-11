@@ -1,4 +1,4 @@
-Enday Motor
+# Enday Motor
 
 Enday Motor adalah sebuah aplikasi web berbasis Laravel yang dikembangkan sebagai project pembelajaran dan eksplorasi framework Laravel secara mendalam melalui studi kasus sistem penjualan motor.
 
